@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: The Amaz(on|ing) summer in Seattle
 tags:
   - life

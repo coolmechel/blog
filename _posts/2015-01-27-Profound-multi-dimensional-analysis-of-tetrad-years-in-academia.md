@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Profound multi-dimensional analysis of tetrad years in academia
-published: true
+published: false
 tags:
   - life
 ---

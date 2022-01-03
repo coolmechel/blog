@@ -3,7 +3,7 @@ layout: post
 title: How I installed Jekyll in a Subdirectory for blog on GitHub
 date: '2016-06-22 20:54:40 -0700'
 categories: jekyll
-published: true
+published: false
 ---
 **Edit** 07/04/2016: I have now installed Jekyll in the root directory itself, but following tutorial still holds. 
 
