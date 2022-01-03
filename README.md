@@ -1,2 +1,3 @@
-# blog
-Emmanuel Ugwu's Blog
+# Rajat Shah Homepage
+
+https://shahrajat.com/
