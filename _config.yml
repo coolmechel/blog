@@ -27,7 +27,7 @@ description: Hello, This is Emmanuel Ugwu
 # List of links in the navigation bar
 navbar-links:
   Blog: ""
-  About Me: "aboutme"
+# About Me: "aboutme"
   Projects: "projects"
   Research: "research"
   Resume/CV: "https://docs.google.com/document/d/1FUPa3usX4SzVNlio0h9uuUgOixaWvbjr3g4J_h2RHIY/edit?usp=sharing"
@@ -63,12 +63,12 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "ShahRajat.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "coolmechel.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "rajatshah"
+disqus: "Emmanuel"
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-68142836-1"
