@@ -1,12 +1,15 @@
 ---
 layout: post
 author: Emmanuel
-title: My very first Blog post using Jekyll technology
-subtitle: Creating my own website and blog on Github
+title: Managing Your Service Based Business
+subtitle: Spend less time on the non essentials
 tags:
   - Technology, IT Helpdesk Support
 published: true
 ---
+
+![Focus on what matters!](/img/mechanic.jpg "Mechanic at work")
+
 A banana is an edible fruit – botanically a berry – produced by several kinds
 of large herbaceous flowering plants in the genus Musa.
 
