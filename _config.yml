@@ -8,9 +8,10 @@
 #baseurl: "/blog"
 baseurl: "/blog"
 production_url : http://coolmechel.github.io.com/blog
-BASE_PATH : http://coolmechel.com/blog
+BASE_PATH : http://coolmechel.github.io/blog
+site_url: http://coolmechel.github.io/blog
 
-# If you are building a GitHub project page then use these settings:
+#If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
 

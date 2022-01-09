@@ -8,13 +8,8 @@ tags:
 published: true
 ---
 
-<figure>
-    <img src="/https://www.pexels.com/photo/black-and-white-car-vehicle-vintage-474/"
-         alt="Mechanic Workshop">
-    <figcaption>Focus on what is really important.</figcaption>
-</figure>
 
-#![Focus on what matters](https://www.pexels.com/photo/black-and-white-car-vehicle-vintage-474/ "Mechanic workshop")
+#![Focus on what matters](/img/mechanic.jpg "Mechanic workshop")
 
 A banana is an edible fruit – botanically a berry – produced by several kinds
 of large herbaceous flowering plants in the genus Musa.
