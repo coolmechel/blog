@@ -3,7 +3,7 @@ layout: page
 title: Projects
 subtitle: What's been eating away my free time
 comments: true
-published: true
+published: false
 ---
 
 A collection of key projects in have done either in my free time or during Masters and Bachelors studies. 

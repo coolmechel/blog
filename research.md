@@ -3,7 +3,7 @@ layout: page
 title: Research
 subtitle: What else I did in grad school?
 comments: true
-published: true
+published: false
 ---
 Much of my research interest lies in various aspects of Machine Learning, Natural Language Processing and AI. I have gained experience in these areas through various [projects](http://shahrajat.com/projects/) and research work done at graduate school.
 
