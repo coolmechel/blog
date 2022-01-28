@@ -9,7 +9,7 @@ published: true
 ---
 
 
-![Customer satisfaction](../img/desktop-support.JPG "Helpdesk Support at Work")
+![desktop support](../img/desktop-support.JPG "Helpdesk Support at Work")
 
 ***
 
@@ -22,7 +22,7 @@ frequently and with little provocation. They did not put much thought into their
 method or consider other possible resolutions. You must strive not to be this
 type of technician.
 
-![Customer satisfaction](../img/untidy.JPG "Scattered room")
+![untidy place](../img/untidy.JPG "Scattered room")
 
 A gun slinger technician changes multiple things simultaneously. For
 example, if there is no display on the output, the technician might swap out the
@@ -32,7 +32,7 @@ problem is repaired using such a technique, the technician never knows exactly
 what solved the problem. A gun slinger technician might get frustrated easily
 because it is easy to forget what has been tried when multiple things have been tried simultaneously—and it is almost impossible to know which one worked.
 
-![Customer satisfaction](../img/phone-line.JPG "Untidy Phone line")
+![Scattered wires](../img/phone-line.JPG "Untidy Phone line")
 
 A good technician, on the other hand, makes a list of symptoms (even if it is
 simply a mental list) followed by a list of things to try. Then the technician tries
