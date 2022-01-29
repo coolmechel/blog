@@ -3,7 +3,7 @@ layout: post
 title: Not just another day...
 subtitle: Getting into Goldman Sachs - a turning point in life
 tags: [Tech]
-published: true
+published: false
 ---
 
 

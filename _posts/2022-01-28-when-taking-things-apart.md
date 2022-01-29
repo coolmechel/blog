@@ -37,6 +37,8 @@ because it is easy to forget what has been tried when multiple things have been 
 ***
 ![Scattered wires](../img/phone-line.jpg "Untidy Phone line")
 
+  > Gun slinger technicians do not learn as fast as other technicians because
+they do not determine the real causes of problems.
 
 A good technician, on the other hand, makes a list of symptoms (even if it is
 simply a mental list) followed by a list of things to try. Then the technician tries
