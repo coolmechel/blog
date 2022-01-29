@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emmanuel
-title: Taking Things Apart
+title: When Taking Things Apart
 subtitle: Technical Support Soft skills
 tags:
   - Technology, IT Helpdesk Support, Technical Support, Soft Skills
@@ -25,7 +25,6 @@ type of technician.
 ***
 ![untidy place](../img/untidy.jpg "Scattered room")
 
-***
 
 A gun slinger technician changes multiple things simultaneously. For
 example, if there is no display on the output, the technician might swap out the
