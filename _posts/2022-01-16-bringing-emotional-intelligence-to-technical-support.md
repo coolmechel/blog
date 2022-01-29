@@ -24,7 +24,6 @@ In every situation I have found myself, I make it a duty to mentally fit myself 
 My first interaction with the client might not result in resolving his issues but with this approach, I have given the client hope and bought myself valuable time for troubleshooting and research towards resolving his issues.
 
 Another key point that is worth mentioning is the follow-up even when you have fixed the end-user challenges, I always love to get feedback from the user as friendship and a more elaborate discussion can ensue, this is what I call **penetrating the mind**, I do not want my user to always come to me with their technical problems, sometimes a listening nonjudgmental ear is sorted for and in this frame of mind and trust the end user can share some personal problems which might be affecting their productivity, in the end, we all want to be happy and not be at the receiving end of a transferred aggression.
-
 #### My Technical support approach will always be as follows:
 
 - Mind frame matching: Put yourself in the position of the client as this will enable you to develop empathy, patience and understanding.
