@@ -25,7 +25,6 @@ type of technician.
 ***
 ![untidy place](../img/untidy.jpg "Scattered room")
 
-***
 
 A gun slinger technician changes multiple things simultaneously. For
 example, if there is no display on the output, the technician might swap out the
@@ -38,7 +37,6 @@ because it is easy to forget what has been tried when multiple things have been 
 ***
 ![Scattered wires](../img/phone-line.jpg "Untidy Phone line")
 
-***
 
 A good technician, on the other hand, makes a list of symptoms (even if it is
 simply a mental list) followed by a list of things to try. Then the technician tries
