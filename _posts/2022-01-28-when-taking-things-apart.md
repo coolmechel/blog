@@ -63,4 +63,4 @@ change if the change does not solve the problem. Furthermore, the technician
 needs to document the issue and its resolution for future problems.
 
 ***
-_Extract from Complete A+ Guide to IT Harrdware and Software by Cherly A. Schmidt_
+_Extract from Complete A+ Guide to IT Hardware and Software by Cherly A. Schmidt_
