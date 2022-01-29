@@ -3,7 +3,7 @@ layout: post
 title: Not just another day...
 subtitle: Getting into Goldman Sachs - a turning point in life
 tags: [life]
-published: false
+published: true
 ---
 
 This is a reminiscence of my tremendous coup which literally changed all of my opinions and thoughts about days of the upcoming summer’13 and the days succeeding college life. The description may sound circumlocutory since I am not used to with writing such lengthy tales. Also for the last two years, I am finding it very difficult to unjumble and untangle my feelings to form understandable and attractive sentences with intelligent use of words.
