@@ -30,7 +30,7 @@ The environmental function focuses on the effects E&P have on the external envir
 
 **“Every accident is a notice that something is wrong with men, methods, or material.**
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">SEPCOL confirm the FPSO Trinity Spirit has exploded off the coast of <a href="https://twitter.com/hashtag/Nigeria?src=hash&amp;ref_src=twsrc%5Etfw">#Nigeria</a> this morning, 10 reportedly killed. <a href="https://t.co/bqe3bZPzQf">pic.twitter.com/bqe3bZPzQf</a></p>&mdash; Aurora Intel (@AuroraIntel) <a href="https://twitter.com/AuroraIntel/status/1489161539181502474?ref_src=twsrc%5Etfw">February 3, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6895007427042103296" height="908" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 
 ##### We should not wait for accidents to teach us the lessons we keep ignoring in safety observation.
