@@ -30,7 +30,7 @@ The environmental function focuses on the effects E&P have on the external envir
 
 **“Every accident is a notice that something is wrong with men, methods, or material.**
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6895007427042103296" height="908" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6895009040691511297?compact=1" height="284" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 
 ##### We should not wait for accidents to teach us the lessons we keep ignoring in safety observation.
