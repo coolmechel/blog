@@ -7,7 +7,7 @@ tags:
   - Markdown, Git, Github, Soft Skills
 published: true
 ---
-
+![Okume Charly](../img/okume-charly.jpeg "Okume Central Processing Facility")
 <table class="styled-table">
   <thead>
     <tr>
