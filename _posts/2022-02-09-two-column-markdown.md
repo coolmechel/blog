@@ -25,6 +25,13 @@ published: true
       In order to further advance my skillset, I will love to consolidate and continuously improve myself in the field of data analysis. My ability to conclude the Google IT Support Specialization under three months is an evident that I have the discipline and the desire to learn and also finish what I started and this financial aid will be a great boost to my learning trajectory.
       I want to believe that the Coursera and Google's mission is to get the needed skill to those who have the desire and passion to learn. If this is the case, I believe I am qualified for this aid judging from my track record.</td>
     </tr>
+    <tr>
+      <td> 
+      <img src="../img/okume-charly.jpeg" alt="Okume charly" title="Images in a table" />
+      </td>
+      <td> <img src="../img/mechanic.jpg" alt="Mechanic workshop" title="Images in a table" />
+      </td>
+    </tr>
   </tbody>
 </table>
 
