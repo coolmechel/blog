@@ -12,8 +12,8 @@ published: true
   <table class="styled-table">
     <thead>
       <tr>
-        <th>"You can build the world's best security systems, but they won't protect you if the users are going to be practicing Unsafe Security"</th>
         <th>What i will do with the Scholarship</th>
+        <th>"You can build the world's best security systems, but they won't protect you if the users are going to be practicing Unsafe Security"</th>
       </tr>
     </thead>
     <tbody>
