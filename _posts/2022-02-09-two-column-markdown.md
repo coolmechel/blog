@@ -17,8 +17,16 @@ published: true
   </thead>
   <tbody>
   <tr>
-      <td> <img src="../img/mechanic.jpg" alt="Mechanic workshop" title="Images in a table" />
+      <td> 
+        <img src="../img/mechanic.jpg" alt="Mechanic workshop" title="Images in a table" />
       </td>
+      <td> "You can build the world's best security systems, but they won't protect you if the users are going to be practicing Unsafe Security"
+      I know you may not be aware of these habits and the fact that any of your account has not been compromised does not mean you are safe for it is only a matter of time.
+  
+  I am not trying to scare you in anyway but the following recommendations will further reduce the threat vector.
+  Password salting: This is a process of strengthening account password, a good password MUST contain at least 8-characters, an uppercase and an alphanumeric character.
+  Password Reuse: Financial account password MUST be unique from any other password we use but due to our flaws in remembering multiple passwords, it has become a common practice to reuse password.
+  Two Factor Authentication (2FA): This is an additional layer of protection to the password which can be applied to financial accounts.</td>
     </tr>
     <tr>
       <td> The biggest threat in any security infrastructure is you and I, we are the weakest link and overtime through a method called Social Engineering we have unknowingly giving away information that can be used to penetrate our IT security systems.
@@ -32,15 +40,10 @@ published: true
   Password Sharing: Password is a piece of information that should be kept confidential and when you unintentionally leave your password on a piece of paper or share them with people you are leaving our accounts vulnerable.
 
   You are in a greater risk if you are culpable of these habits and you are advised to imbibe a good security practice.</td>
-      <td> "You can build the world's best security systems, but they won't protect you if the users are going to be practicing Unsafe Security"
-      I know you may not be aware of these habits and the fact that any of your account has not been compromised does not mean you are safe for it is only a matter of time.
+      
   <td> 
     <img src="../img/okume-charly.jpeg" alt="Okume charly" title="Images in a table" />
   </td>
-  I am not trying to scare you in anyway but the following recommendations will further reduce the threat vector.
-  Password salting: This is a process of strengthening account password, a good password MUST contain at least 8-characters, an uppercase and an alphanumeric character.
-  Password Reuse: Financial account password MUST be unique from any other password we use but due to our flaws in remembering multiple passwords, it has become a common practice to reuse password.
-  Two Factor Authentication (2FA): This is an additional layer of protection to the password which can be applied to financial accounts.</td>
     </tr>
     
   </tbody>
