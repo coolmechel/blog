@@ -18,7 +18,7 @@ published: true
   <tbody>
   <tr>
       <td> 
-        <img src="../img/mechanic.jpg" alt="Mechanic workshop" title="Images in a table" />
+        <img src="../img/emk3.jpeg" alt="Okume Charly conference" title="Cyber awareness training" />
       The biggest threat in any security infrastructure is you and I, we are the weakest link and overtime through a method called Social Engineering we have unknowingly giving away information that can be used to penetrate our IT security systems.
       </td>
       <td>
@@ -36,7 +36,7 @@ published: true
     </td>
       <td>
         Two Factor Authentication (2FA): This is an additional layer of protection to the password which can be applied to financial accounts.
-        <img src="../img/okume-charly.jpeg" alt="Okume charly" title="Images in a table" />
+        <img src="../img/emk14.jpeg" alt="Okume charly" title="First training session" />
       </td>
     </tr>
     <tr>
