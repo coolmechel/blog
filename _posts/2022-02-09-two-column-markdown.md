@@ -19,6 +19,7 @@ published: true
   <tr>
       <td> 
         <img src="../img/mechanic.jpg" alt="Mechanic workshop" title="Images in a table" />
+        The biggest threat in any security infrastructure is you and I, we are the weakest link and overtime through a method called Social Engineering we have unknowingly giving away information that can be used to penetrate our IT security systems.
       </td>
       <td>
         I know you may not be aware of these habits and the fact that any of your account has not been compromised does not mean you are safe for it is only a matter of time.
@@ -29,7 +30,6 @@ published: true
     </tr>
     <tr>
       <td>
-        The biggest threat in any security infrastructure is you and I, we are the weakest link and overtime through a method called Social Engineering we have unknowingly giving away information that can be used to penetrate our IT security systems.
         Social Engineering: is the psychological manipulation of people into performing actions or divulging confidential information.
         As we reflect on the training held on the 26th June, let us not forget that we are at a greater risk of having our accounts compromised if we are fond of the following habits:
         Password reuse: This is not a good security practice as this will increase your threat vector and put you in a precarious situation if any of the services where you are registered with such an account is ever compromised.
