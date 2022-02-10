@@ -7,7 +7,7 @@ tags:
   - Markdown, Git, Github, Soft Skills
 published: true
 ---
-![Okume Charly](../img/okume-charly.jpeg "Okume Central Processing Facility")
+![Cyber Security Awareness](../img/article-volume-1.jpg "Cyber Security Weekly Article")
 <table class="styled-table">
   <thead>
     <tr>
@@ -16,22 +16,33 @@ published: true
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td> I switched discipline after my undergraduate studies when I got exposed to Information Technology and how much relevant this skill is in solving African problems. Over the past years, I have been steadily improving on my skills in IT, as I mentioned above, I concluded a specialization in Google IT Support which has given me a lot of confidence in my field.
-      Data science comes highly recommended from tech mentors as one grows to managerial roles in this field, with the rate at which data is being generated, this skill is no longer a desire but a necessity for IT professionals to thrive, from making sense of log data, to driving sales based on data analysis to having self-driving car which is powered by artificial intelligence (AI) these AI algorithms are powered by bigdata.
-    This skill is also a requisite as I work towards becoming a Machine learning engineer, the course will further horn my data wrangling skills, data visualization skill, data base manipulation skills which are most relevant to a Machine learning engineer.I also look forward to impacting my immediate environment with this skill by mentoring the younger ones who have similar desires to become data analyst or data scientist.</td>
-      <td> The cost of internet in Equatorial Guinea is very expensive, I am currently spending about $100 monthly on internet, furthermore, there is a lot of limitation for making international payment from here due to government policies on foreign exchange, making credit card payment not very affordable from here and sometimes, it is not even available.
-      I participated in the recently concluded program sponsored by the government on Coursera that enabled me to finish a specialization on Google IT support under three months and this had improved my career journey.
-      In order to further advance my skillset, I will love to consolidate and continuously improve myself in the field of data analysis. My ability to conclude the Google IT Support Specialization under three months is an evident that I have the discipline and the desire to learn and also finish what I started and this financial aid will be a great boost to my learning trajectory.
-      I want to believe that the Coursera and Google's mission is to get the needed skill to those who have the desire and passion to learn. If this is the case, I believe I am qualified for this aid judging from my track record.</td>
-    </tr>
-    <tr>
-      <td> 
-      <img src="../img/okume-charly.jpeg" alt="Okume charly" title="Images in a table" />
-      </td>
+  <tr>
       <td> <img src="../img/mechanic.jpg" alt="Mechanic workshop" title="Images in a table" />
       </td>
     </tr>
+    <tr>
+      <td> The biggest threat in any security infrastructure is you and I, we are the weakest link and overtime through a method called Social Engineering we have unknowingly giving away information that can be used to penetrate our IT security systems.
+
+  Social Engineering: is the psychological manipulation of people into performing actions or divulging confidential information.
+
+  As we reflect on the training held on the 26th June, let us not forget that we are at a greater risk of having our accounts compromised if we are fond of the following habits:
+
+  Password reuse: This is not a good security practice as this will increase your threat vector and put you in a precarious situation if any of the services where you are registered with such an account is ever compromised.
+  Name and birthday combination: Another unsafe security practice that is very common is the use of name and birth date combination as a password, you are at a higher risk of dictionary attack and your passwords can easily be guessed by a hacker.
+  Password Sharing: Password is a piece of information that should be kept confidential and when you unintentionally leave your password on a piece of paper or share them with people you are leaving our accounts vulnerable.
+
+  You are in a greater risk if you are culpable of these habits and you are advised to imbibe a good security practice.</td>
+      <td> "You can build the world's best security systems, but they won't protect you if the users are going to be practicing Unsafe Security"
+      I know you may not be aware of these habits and the fact that any of your account has not been compromised does not mean you are safe for it is only a matter of time.
+  <td> 
+    <img src="../img/okume-charly.jpeg" alt="Okume charly" title="Images in a table" />
+  </td>
+  I am not trying to scare you in anyway but the following recommendations will further reduce the threat vector.
+  Password salting: This is a process of strengthening account password, a good password MUST contain at least 8-characters, an uppercase and an alphanumeric character.
+  Password Reuse: Financial account password MUST be unique from any other password we use but due to our flaws in remembering multiple passwords, it has become a common practice to reuse password.
+  Two Factor Authentication (2FA): This is an additional layer of protection to the password which can be applied to financial accounts.</td>
+    </tr>
+    
   </tbody>
 </table>
 
