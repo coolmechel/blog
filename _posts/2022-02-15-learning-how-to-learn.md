@@ -25,17 +25,17 @@ If you are a routine person that prefers to take the same route to work, sit in 
 
 It is said that change and new ideas are acceptable only when presented slowly in bit-size fragments. It is easy to be overwhelmed by the amount of information to process and consume and being a specie of habit, we just want to settle for the normal routine and doing something different can create stress and anxiety. In my four years of support experience,
 
-> ##### Learn
-> ##### Reflect
-> ##### Implement
-> ##### Share
+> #### Learn
+> #### Reflect
+> #### Implement
+> #### Share
 
-Are some guiding principles to mastery.
+Are some of my guiding principles to mastery.
 
 ##### Learn
 You have to be in the habit of learning and be ready to adapt to the new system as they unravel, this should come naturally if it becomes your habit.
 
-##### Reflect:
+##### Reflect
 This is where you should furnace all you have learned and form them into libraries of experience.
 
 ##### Implement
