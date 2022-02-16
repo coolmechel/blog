@@ -25,24 +25,24 @@ If you are a routine person that prefers to take the same route to work, sit in 
 
 It is said that change and new ideas are acceptable only when presented slowly in bit-size fragments. It is easy to be overwhelmed by the amount of information to process and consume and being a specie of habit, we just want to settle for the normal routine and doing something different can create stress and anxiety. In my four years of support experience,
 
-> #### Learn
-> #### Reflect
-> #### Implement
-> #### Share
+#### 1. Learn
+#### 2. Reflect
+#### 3. Implement
+#### 4. Share
 
 Are some of my guiding principles to mastery.
 
-#### Learn
+#### 1. Learn
 You have to be in the habit of learning and be ready to adapt to the new system as they unravel, this should come naturally if it becomes your habit.
 
-#### Reflect
+#### 2. Reflect
 This is where you should furnace all you have learned and form them into libraries of experience.
 
-#### Implement
+#### 3. Implement
 Without practice, the two guiding principles will be likened to a wasted exercise, you should spend more time here to achieve mastery.
 
-#### Share
+#### 4. Share
 You will never learn about certain information if the pioneers and early adopters did not share their knowledge. Do not believe that voice that constantly tells you that your knowledge is insignificant as your understanding and expression style can create a spark to whomever is learning from your experience.
 
-#### Understand
+### Understand
 We are all captives of the pictures in our head – our belief that the world we have experienced is the world that really exists means we are endowed with the power to make a difference and this should be your mission.
