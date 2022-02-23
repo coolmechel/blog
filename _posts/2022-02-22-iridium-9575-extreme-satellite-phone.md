@@ -16,9 +16,12 @@ published: true
 
 
 As I recall the desert battle scene on Transformer 2 (Revenge of the fallen), where captain Epps was speaking with Lennox who was commanding the drone operation that was providing air strike support against the decepticons, I recalled he was making use of a handset with a long antenna and ever since then, I have often wondered how this was possible, as this goes against my basic knowledge about how telecommunication worked, I have witnessed the queues at phone booth from recharging your Nitel card to the deskphone and now mobile phones and what was common among them was the significant presence of wires and masts. I was told that such services are not easily available, especially in deserts, in fact, Agu Ugbogu in my village still does not have network coverage and I recall how we climbed trees just to access network coverage in the 2000s.
+
 Today, I had the privilege to unbox and setup an Iridium 9575 Satellite phone in Okume Charly. I know you might be wondering why such piece of equipment is needed. Well, this is for emergencies only as the tariff is not pocket friendly
 
 ![iridium Satellite phone](../img/Iridium-satellite-phone.jpg "Iridium Satellite Phone")
+
+***
 
 This phone comes with the following features:
 
