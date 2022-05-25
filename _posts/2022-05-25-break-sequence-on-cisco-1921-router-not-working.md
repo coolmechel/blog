@@ -46,11 +46,11 @@ I thought I would share how we eventually solved the problem and my learnings in
 
 - After reloading, it will show an error, no flash. Ignore this, power off the router and remove the power cable.
 
+- Install the flash back on the motherboard and couple the router.
+
 ![Networking Equipment](../img/cisco-4.jpg "Replace the flash to the motherboard")
 
 ***
-
-- Install the flash back on the motherboard and couple the router.
 
 - Power on the router, rack it and continue configuring the device like it’s the first time.
 
