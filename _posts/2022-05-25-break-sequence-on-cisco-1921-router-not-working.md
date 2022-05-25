@@ -41,8 +41,9 @@ I thought I would share how we eventually solved the problem and my learnings in
 
 - After booting, the device will fall back to the ROMMON and you can execute these commands
 
-> Configreg 0x2142 
-  Reload
+> - Configreg 0x2142
+
+  - Reload
 
 - After reloading, it will show an error, no flash. Ignore this, power off the router and remove the power cable.
 
