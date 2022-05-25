@@ -26,34 +26,33 @@ I thought I would share how we eventually solved the problem and my learnings in
 
 **NOTE: Cisco does not advice tampering with its devices and it will be in your best interest to seek the expertise of professionals to help you out in this type of scenario.**
 
-1.  You need a size 10 Torx screwdriver, a star screwdriver and antistatic wrist strap to prevent damaging the flash with static currents from our hands. You also need a console cable and of course a laptop with Putty application.
+- You need a size 10 Torx screwdriver, a star screwdriver and antistatic wrist strap to prevent damaging the flash with static currents from our hands. You also need a console cable and of course a laptop with Putty application.
 
-2.  Power down the device and unplug from power. Place it on a table or any flat solid surface.
+- Power down the device and unplug from power. Place it on a table or any flat solid surface.
 
-3.  With the torx screwdrivers, loose the 4 screws by the side of router and gently press on the top and slide in the forward position towards the green plastic to pop open the router.
+- With the torx screwdrivers, loose the 4 screws by the side of router and gently press on the top and slide in the forward position towards the green plastic to pop open the router.
 
 ![Networking Equipment](../img/cisco-3.jpg "Removing the flash from the mother board")
 
 ***
+- Locate the flash on the mother, use a screwdriver and carefully lift it off from the mother board.
 
-4.  Locate the flash on the mother, use a screwdriver and carefully lift it off from the mother board.
+- Connect the power cable and power on the router.
 
-5.  Connect the power cable and power on the router.
-
-6.  After booting, the device will fall back to the ROMMON and you can execute these commands
+- After booting, the device will fall back to the ROMMON and you can execute these commands
 
 > Configreg 0x2142 
-> Reload
+  Reload
 
-7.  After reloading, it will show an error, no flash. Ignore this, power off the router and remove the power cable.
+- After reloading, it will show an error, no flash. Ignore this, power off the router and remove the power cable.
 
 ![Networking Equipment](../img/cisco-4.jpg "Replace the flash to the motherboard")
 
 ***
 
-8.  Install the flash back on the motherboard and couple the router.
+- Install the flash back on the motherboard and couple the router.
 
-9.  Power on the router and continue configuring the device like it’s the first time.
+- Power on the router, rack it and continue configuring the device like it’s the first time.
 
 ![Networking Equipment](../img/cisco-5.jpg "Couple the device and rack it to continue the configurations")
 
