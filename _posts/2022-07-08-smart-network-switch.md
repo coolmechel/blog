@@ -14,6 +14,26 @@ From my networking class, Switch was defined primarily as a layer 2 device that 
 
 ***
 
+~~~
+interface GigabitEthernet0/0
+ no ip address
+ duplex auto
+ speed auto
+!
+interface GigabitEthernet0/0.10
+ encapsulation dot1Q 10
+ ip address 192.168.1.62 255.255.255.192
+!
+interface GigabitEthernet0/0.20
+ encapsulation dot1Q 20
+ ip address 192.168.1.126 255.255.255.192
+!
+interface GigabitEthernet0/0.30
+ encapsulation dot1Q 30
+ ip address 192.168.1.190 255.255.255.192
+ ~~~
+ 
+The above figure without a MLS shows the router is directly involved in routing between VLANs and due to this additional strain on the network, the router's resources is over stretched and this is not an efficient way of designing a network. 
 
 If it's your first time hearing about Multilayer switching like me, do not worry because you are definitely not alone. Imagine you are running a big company of about a thousand employees and you have no assistant whom you can push some of the responsibilities to and everyone in the company has to come to you for every trivial issue? This is the case when a router has to also perform inter-vlan routing on a network as well as its primary task of routing traffic between networks. Basically, a MLS enables hardware-based Layer 3 switching to offload routers from forwarding unicast IP data packets, when you have departmental heads making decisions in those departments and not necessarily involving you in every tiny detail will free up your time and also help you to become more productive. This is exactly the advantage the MLS brings in a network.
 MLS does not come with default configs to route VLAN traffic, this feature has to be enabled and configured by the network administrator to enable this device to function in this capacity and my lab today will be demonstrating the key components to achieve this functionality.
@@ -24,6 +44,8 @@ MLS does not come with default configs to route VLAN traffic, this feature has t
 ***
 
 ### Below is the running config on the MLS from the diagram.
+
+As you can see in the simulation, the Router is not involved in the ICMP routing between VLANs, the MLS switch takes care of all the VLAN routing.
 
 ~~~
 MLSW#sh run
